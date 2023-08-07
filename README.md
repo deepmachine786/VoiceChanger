@@ -1,9 +1,9 @@
 
 # VOICECHANGER | Voice Manipulation Application
-<img src="https://github.com/deepmachine786/WorkSuitKit/blob/main/assets/images/ChatBit.png"></img>
+<img src="https://github.com/deepmachine786/VoiceChanger/blob/main/assets/images/head_voice.png"></img>
 ## Overview
 
-This repository contains the source code and documentation for Voicechanger, a powerful voice manipulation application developed by [Your Name]. Voicechanger allows users to manipulate their voices in real-time, offering various options to enhance their audio experience. The application has been developed using Flutter, React, JavaScript, Dart, and Node.js, ensuring a seamless user experience across different platforms.
+This repository contains the source code and documentation for Voicechanger, a powerful voice manipulation application developed by Md Shahid Ali. Voice changer allows users to manipulate their voices in real-time, offering various options to enhance their audio experience. The application has been developed using Flutter, React, JavaScript, Dart, and Node.js, ensuring a seamless user experience across different platforms.
 
 ## Key Features
 
